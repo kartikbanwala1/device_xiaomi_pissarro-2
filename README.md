@@ -1,27 +1,24 @@
-# Device Tree Status
-https://github.com/RedmiNote10S/android_device_redmi_rosemary/issues/1
 
-Device Tree for Redmi Note 10s (rosemary)
+Device Tree for Xiaomi 11i (rosemary)
 ==========================================
 
-The Redmi Note 10s (codenamed _"rosemary"_) is a high-end, mid-range smartphone from Xiaomi.
+The Xiaomi 11i (codenamed _"pissarro"_) is a high-end, mid-range smartphone from Xiaomi.
 
 
 | Basic                   | Spec Sheet                                                                                                                     |
 | -----------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
 | CPU                     | Octa-core                                                                                                                      |
-| Chipset                 | Mediatek Helio G95                                                                                                            |
-| GPU                     | Mali-G76 MC4                                                                                                                   |
+| Chipset                 | Mediatek Dimensity 920                                                                                                            |
+| GPU                     | Mali-G68 MC4                                                                                                                   |
 | Memory                  | 6/8 GB RAM                                                                                                                     |
 | Shipped Android Version | 11.0                                                                                                                           |
-| Storage                 | 64/128 GB                                                                                                              |
-| Battery                 | Non-removable Li-Po 5000 mAh battery                                                                                           |
-| Display                 | 1080 x 2400 pixels, 19.5:9 ratio (~440 ppi density)                                                                            |
-| Camera (Back)(Main)     | 64MP + 8MP + 2MP + 2MP                                                                                |
-| Camera (Front)          | 13MP                                                                                                     |
+| Storage                 | 128 GB                                                                                                              |
+| Battery                 | Non-removable Li-Po 5160 mAh battery                                                                                           |
+| Display                 | 1080 x 2400 pixels, 20:9 ratio (~440 ppi density)                                                                            |
+| Camera (Back)(Main)     | 108MP + 8MP + 2MP                                                                                |
+| Camera (Front)          | 16MP                                                                                                     |
 
 ## Device picture
-![rosemary](https://i01.appmifile.com/webfile/globalimg/Anna/rn10s_Blue.png)
+![pissarro](https://i02.appmifile.com/829_operator_in/06/01/2022/b0a78c33f8b6ecb400465151922b1557.png)
 
-## Credits
-[@erfanoabdi](https://github.com/erfanoabdi), [@J6idot](https://github.com/J6idot), [@akshat0011](https://github.com/akshat0011), [@Woomymy](https://github.com/Woomymy), [@dgigantino](https://github.com/dgigantino), [@gaganmalvi](https://github.com/gaganmalvi), Aylin, and many more who helped with the development for Redmi Note 10S
+
