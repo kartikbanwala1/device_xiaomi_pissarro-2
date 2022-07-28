@@ -1,5 +1,5 @@
 
-Device Tree for Xiaomi 11i (rosemary)
+Device Tree for Xiaomi 11i (pissarro)
 ==========================================
 
 The Xiaomi 11i (codenamed _"pissarro"_) is a high-end, mid-range smartphone from Xiaomi.
